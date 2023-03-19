@@ -1,0 +1,55 @@
+/********** Header  *********/
+.google {
+    margin-top: 8px;
+    justify-content: center;
+    display: flex;
+}
+/**********  Body   *********/
+.margin {
+    margin: 0 50px 0 50px;
+}
+
+.box1{
+    margin: 0 5px 2px 5px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.box2{
+    text-align: center;
+    width: 38%;
+    float:left;
+    margin-left: 5px;
+    height: 70px;
+    padding-top: 10px;
+    background-color: rgb(126, 229, 218);
+}
+
+.box3{
+    width: 19%;
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+    height: 70px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    background-color: rgb(112, 204, 194) ;
+}
+
+.box4{
+    background-color: rgb(98, 179, 170);
+    width: 42%;
+    float:left;
+    margin-left: 2px;
+    height: 80px;
+    text-align: center;
+    display: table-cell;
+}
+
+/********** Footer  *********/
+.copyright{
+    font-size: small;
+    text-align: center;
+    margin-top: 100px;
+}
